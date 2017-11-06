@@ -88,7 +88,3 @@ else:
 	client_socket.send(msgEnc)
 
 client_socket.close()
-
-#msg = raw_input("Digite a mensagem para enviar para 'B': ")
-
-#msgEnc = encrypt(str(ka), msg)
